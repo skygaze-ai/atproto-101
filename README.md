@@ -9,8 +9,6 @@ We'll use Python, without an SDK, so you can see how it works behind the scenes,
 ---
 ## Identity
 
-In order to access any data on the protocol, you need to be authenticated. You can sign in with your regular Bluesky credentials, and you can protect your credentials by creating an [App Password](https://bsky.app/settings/app-passwords) for your project.
-
 ### Create a session
 Once you authenticate, you receive a session object. This object includes your `accessJwt`, which is used to authenticate requests and is valid for 2 hours. Your `refreshJwt` lasts longer and is used only to update the session with a new access token. The session object also includes some basic account information, like your `did`, `handle`, and `email`. 
 

@@ -6,17 +6,6 @@ We'll use Python, without an SDK, so you can see how it works behind the scenes,
 
 [If you're looking for further etc. etc.- Link to bot and feed generator templates]
 
-
-```python
-%%capture
-!pip install requests;
-
-import pprint
-import requests
-
-pp = pprint.PrettyPrinter()
-```
-
 ---
 ## Identity
 

@@ -1,4 +1,4 @@
-# AT Protocol Crash Course
+# AT Protocol 101
 
 The Authenticated Transfer Protocol, aka atproto, is a federated protocol for large-scale distributed social applications. [What this notebook is- this notebook will introduce how to interact with the data on the protocol, all of which is publicly available].
 

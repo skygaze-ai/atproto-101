@@ -4,7 +4,8 @@ The Authenticated Transfer Protocol, aka atproto, is a federated protocol for la
 
 We'll use Python, without an SDK, so you can see how it works behind the scenes, but SDKs for multiple languages have been developed, including [Typescript](https://github.com/bluesky-social/atproto/tree/main/packages/api), [Python](https://atproto.blue/), [Dart](https://atprotodart.com/), and [Go](https://github.com/bluesky-social/indigo/tree/main).
 
-For more in-depth information, check out:
+There's much more to atproto than what's covered here- for more in-depth information, check out:
+- [Bluesky's paper](https://arxiv.org/pdf/2402.03239.pdf)
 - [Bluesky's documentation](https://docs.bsky.app)
 - Skygaze's [starter repositories](https://github.com/skygaze-ai), which include bot and feed generator templates
 
